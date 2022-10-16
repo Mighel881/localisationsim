@@ -5,7 +5,7 @@
 <br>
 <p> 3. Choose your location by long pressing the place (mark a Pin and then press the 3 dots)</p>
 <br>
-<p> 4. Share and go down and select "FPP Localisation Sim" or "虛拟定位到此位置" (try both options lol one will be glitching the other will work )</p>
+<p> 4. Share and go down and select "FPP Localisation Sim" or "虛拟定位到此位置" (try both options lol one will be glitching, close the share pop up and open it again. )</p>
 <br>
 <p> 5. Long press on the location that you added (little icon in blue) and then select Start Location Simulation (you should feel a vibration)</p>
 <br>
