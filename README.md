@@ -1,4 +1,4 @@
-<h1> Localisation Changer for TrollStore </h1>
+<h1> Localisation Changer an other tools for TrollStore </h1>
 <h2> Video tutorial : <a href='https://youtu.be/e-unoZY5dnc'> https://youtu.be/e-unoZY5dnc</a> </h2>
 <p> 1. Download and install the IPA </p>
 <br>
